@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6swmtZJs)
-# Final-Project
 <div align='center'>
     <h1><b>HiKopi!</b></h1>
     <img src='https://raw.githubusercontent.com/Kuratchikuma/FTDS-035-RMT-group-1/refs/heads/main/hikopi_logo.png' width="256"/>
